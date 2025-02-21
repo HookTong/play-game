@@ -1,0 +1,15 @@
+.wapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wapper .cell {
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-weight: bold;
+    font-size: 1.4rem;
+}
